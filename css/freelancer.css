@@ -66,6 +66,15 @@ hr.star-light:after {
     background-color: #18bc9c;
 }
 
+hr.star-purple {
+    border-color: #fff;
+}
+
+hr.star-purple:after {
+    color: #fff;
+    background-color:#885694;
+}
+
 hr.star-primary {
     border-color: #2c3e50;
 }
@@ -186,7 +195,7 @@ section.success {
 
 section.skills {
 	color: #fff;
-	background: #512A5A;	
+	background: #885694;	
 }
 
 section.success a,
